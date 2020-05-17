@@ -1,11 +1,7 @@
 ---
 layout: post
-date: 2020-05-17
+date: 2019-01-12
 ---
-
-Paper from Google exploring importance of architecture of neural networks.
-[Google blog](https://ai.googleblog.com/2019/08/exploring-weight-agnostic-neural.html)
-
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin egestas convallis diam ac imperdiet. Nam tristique felis eget interdum facilisis. Proin augue ante, cursus eu aliquet nec, consectetur quis nisi. Curabitur semper, ligula ut iaculis ullamcorper, libero turpis consectetur lacus, at gravida est quam sagittis dui. Integer augue urna, ultricies quis massa vitae, aliquam aliquet ante. Vestibulum porta massa consequat luctus suscipit. Proin egestas dapibus neque et ultricies. Donec vitae metus non erat pellentesque interdum ac eu ante. Integer dictum dolor eget ex finibus mattis dictum eget arcu. Nam viverra orci fringilla, venenatis turpis in, finibus nunc. Pellentesque ullamcorper felis cursus justo interdum, at accumsan purus faucibus. Ut magna est, condimentum non mauris eu, feugiat laoreet metus. Vivamus viverra vitae magna nec cursus. Morbi ipsum dolor, porta et ornare vel, consequat et turpis.
 
