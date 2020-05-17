@@ -1,0 +1,36 @@
+collections:
+  papers:
+    output: true
+    permalink: /p/:name
+
+title: Dmitry Gordin
+author: gordinmitya
+# email: your-email@domain.com
+description: > # this means to ignore newlines until "show_exerpts:"
+  Writings about my experience with efficient neural networks for mobile devices, deep learning paper reviews.
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+sass:
+  sass_dir: _sass
+plainwhite:
+  name: Dmitry Gordin
+  tagline: PhD student
+  date_format: "%b %-d, %Y"
+  sitemap: true # set to true to generate sitemap.xml content
+  dark_mode: false # set true to add dark mode toggle
+
+  # generate social links in footer
+  social_links:
+    github:  gordinmitya
+    twitter: gordinmitya
+    telegram: gordinmitya
+    # linkedIn: in/gordinmitya
+    # instagram: gordinmitya
+    # youtube: gordinmitya
+    # facebook: gordinmitya
+
+plugins:
+  - jekyll-seo-tag
+  # - jekyll-feed
